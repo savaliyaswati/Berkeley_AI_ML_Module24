@@ -49,8 +49,7 @@ Understanding what drives home values benefits multiple groups:
 ## Conclusion
 This project demonstrates how machine learning can simplify a complex problem: predicting housing prices. While no model can be perfect, the findings give both technical and nontechnical audiences actionable insights into what truly drives real estate value.
 
-📌 **Next Deliverables:**
-- Full Jupyter Notebooks with cleaned code, EDA, and modeling steps.
-- GitHub repository with all files (including this README).
 
-Jupyter notebook link: 
+
+Jupyter notebook link: https://github.com/savaliyaswati/Berkeley_AI_ML_Module24/blob/main/housing_price_prediction.ipynb 
+
